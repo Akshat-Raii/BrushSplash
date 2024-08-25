@@ -55,3 +55,15 @@ This script utilizes the handDetector class to create an interactive drawing app
 ## Troubleshooting 🛠️
 1.Camera Access: Ensure your camera is working and accessible.<br><br>
 2.Dependencies: Verify that all required libraries are installed.
+
+## Visuals 🎥📸
+**Application Video**
+
+
+
+https://github.com/user-attachments/assets/50ec5030-386c-49dc-8524-93b3976c895e
+
+
+
+
+
